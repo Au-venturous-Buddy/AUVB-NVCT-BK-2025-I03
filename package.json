@@ -1,10 +1,10 @@
 {
-  "name": "znzn-v4-mbei-v1-i2",
+  "name": "auvb-nvct-bk-2025-i01",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
-    "icon": "src/images/Social Snapshots.png",
-    "productName": "Zene 'N Zeanne Social Snapshots: Preparing for School",
+    "icon": "src/images/AUVB Logo.png",
+    "productName": "Au-venturous Buddy NeuroverCity: Best Proposal Ever?!",
     "files": [
       "public/**/*",
       "main.js"
@@ -46,8 +46,8 @@
     }
   },
   "private": true,
-  "description": "Zeanne teaches Zene how to get ready for school.",
-  "version": "4.1.2.0",
+  "description": "While it's true that people with autism struggle with social skills, this NeuroverCity story will debunk the myth that people with autism cannot get married (most especially if one is very attentive to even the tiniest details about one's boyfriend/girlfriend!).",
+  "version": "2025.01",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

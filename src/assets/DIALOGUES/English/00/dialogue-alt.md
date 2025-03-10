@@ -1,10 +1,9 @@
 ---
 dialogue_alt: [
-    "Social Snapshots: Preparing for School",
-    "Zene, I'm very excited for you because you're finally going to regular school!",
-    "Yes! And I'm totally excited!",
-    "But first...",
-    "I'll have to teach you how to prepare your bag!",
-    "What?!"
+    "Au-venturous Buddy NeuroverCity: Best Proposal Ever?!",
+    "Congrats Teacher Zene and Nikki on your wedding day!",
+    "Thank you!",
+    "And I really found it cute when you said that you'ver got her a unicorn stuffed toy as an engagement gift! I love unicorns!",
+    "Kali, there's actually more to that story..."
 ]
 ---

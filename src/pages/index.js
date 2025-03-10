@@ -134,7 +134,6 @@ export const query = graphql`
           childMarkdownRemark {
             frontmatter {
               title
-              format
               language_code
               dialogue_alt
             }
