@@ -114,7 +114,7 @@ export default function ComicStripv2022_2(props) {
       tableBackgroundOptions={tableBackgroundOptions}
       defaultTableBackground={tableBackgroundOptions[0]}
       tableBackgrounds={tableBackgrounds}
-      defaultLanguage="English"
+      defaultLanguage="Filipino"
       compile={compileComicStrip}
     />
   )

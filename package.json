@@ -1,10 +1,10 @@
 {
-  "name": "auvb-nvct-bk-2025-i01",
+  "name": "auvb-nvct-bk-2025-i02",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/AUVB Logo.png",
-    "productName": "Au-venturous Buddy NeuroverCity: Best Proposal Ever?!",
+    "productName": "Au-venturous Buddy NeuroverCity: Elections - Easy as an Egg",
     "files": [
       "public/**/*",
       "main.js"
@@ -46,8 +46,8 @@
     }
   },
   "private": true,
-  "description": "While it's true that people with autism struggle with social skills, this NeuroverCity story will debunk the myth that people with autism cannot get married (most especially if one is very attentive to even the tiniest details about one's boyfriend/girlfriend!).",
-  "version": "2025.01",
+  "description": "Elections can be a hassle, most especially for our Au-venturous buddies who are first-time voters or have not voted in a while. But don't worry, the resident twin therapists Zene and Zeanne are here to explain in a step-by-step manner on how to cast your votes!",
+  "version": "2025.02",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",

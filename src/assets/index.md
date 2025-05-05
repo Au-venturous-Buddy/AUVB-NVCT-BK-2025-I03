@@ -1,5 +1,5 @@
 ---
-title: "Best Proposal Ever?!"
-date: "2025-02-14"
-synopsis: "While it's true that people with autism struggle with social skills, this NeuroverCity story will debunk the myth that people with autism cannot get married (most especially if one is very attentive to even the tiniest details about one's boyfriend/girlfriend!)."
+title: "Elections: Easy as an Egg"
+date: "2025-05-07"
+synopsis: "Elections can be a hassle, most especially for our Au-venturous buddies who are first-time voters or have not voted in a while. But don't worry, the resident twin therapists Zene and Zeanne are here to explain in a step-by-step manner on how to cast your votes!"
 ---
