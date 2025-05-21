@@ -1,5 +1,5 @@
 ---
 dialogue_alt: [
-    "Well, you're going to feed that ballot into that machine,"
+    "\"with window dimmed and shoes off. That way, your body will begin adjusting to the new timezone.\", said Brian."
 ]
 ---

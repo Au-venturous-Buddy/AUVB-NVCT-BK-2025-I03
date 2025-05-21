@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Au-venturous Buddy NeuroverCity: Elections - Easy as an Egg`,
+    title: `Au-venturous Buddy NeuroverCity: ETA: 16 Hours`,
     author: `Au-venturous Buddy`
   },
   plugins: [
@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Au-venturous Buddy NeuroverCity: Elections - Easy as an Egg`,
-        short_name: `AUVB-NVCT-BK-2025-I02`,
+        name: `Au-venturous Buddy NeuroverCity: ETA: 16 Hours`,
+        short_name: `AUVB-NVCT-BK-2025-I03`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,

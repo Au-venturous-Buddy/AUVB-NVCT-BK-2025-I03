@@ -1,5 +1,5 @@
 ---
-title: "Elections: Easy as an Egg"
-date: "2025-05-05"
-synopsis: "Elections can be a hassle, most especially for our Au-venturous buddies who are first-time voters or have not voted in a while. But don't worry, the resident twin therapists Zene and Zeanne are here to explain in a step-by-step manner on how to cast your votes!"
+title: "ETA: 16 Hours"
+date: "2025-05-21"
+synopsis: "Ever wondered how fun (or boring) it is to fly long-haul across continents? Join Brian and Naomi as they embark on a 16-hour flight to visit their cousins!"
 ---

@@ -1,10 +1,10 @@
 {
-  "name": "auvb-nvct-bk-2025-i02",
+  "name": "auvb-nvct-bk-2025-i03",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/AUVB Logo.png",
-    "productName": "Au-venturous Buddy NeuroverCity: Elections - Easy as an Egg",
+    "productName": "Au-venturous Buddy NeuroverCity: ETA: 16 Hours",
     "files": [
       "public/**/*",
       "main.js"
@@ -46,8 +46,8 @@
     }
   },
   "private": true,
-  "description": "Elections can be a hassle, most especially for our Au-venturous buddies who are first-time voters or have not voted in a while. But don't worry, the resident twin therapists Zene and Zeanne are here to explain in a step-by-step manner on how to cast your votes!",
-  "version": "2025.02",
+  "description": "Ever wondered how fun (or boring) it is to fly long-haul across continents? Join Brian and Naomi as they embark on a 16-hour flight to visit their cousins!",
+  "version": "2025.03",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
