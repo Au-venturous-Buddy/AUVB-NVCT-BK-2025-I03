@@ -1,4 +1,5 @@
 {
     "Airbus A350 - Conventional Windows": ["0", "1-A350", "2", "3-A350", "5-A350", "7"],
-    "Airbus A350 - Dimmable Windows": ["0", "1-A350", "2", "4-A350", "5-A350", "7"]
+    "Airbus A350 - Dimmable Windows": ["0", "1-A350", "2", "4-A350", "5-A350", "7"],
+    "Boeing 777": ["0", "1-B777", "2", "3-B777", "5-B777", "7"]
 }
